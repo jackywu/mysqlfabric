@@ -1,0 +1,2 @@
+# mysqlfabric
+configuration of mysqlfabric
